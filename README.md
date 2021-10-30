@@ -17,4 +17,4 @@ Simple Chinese:
 ./blockchain send "FROM" "TO" AMOUNT "MINER" "DATA" 转账命令  
 ./blockchain createWallet 创建钱包  
 ./blockchain ListAddresses 打印钱包地址列表  
-./blockchain printTx 打印所有交易# GO-Simple-Bitcoin  
+./blockchain printTx 打印所有交易
